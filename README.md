@@ -14,7 +14,6 @@
   <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/811c3f8a-92e4-4a9c-8e5a-e4d1e07ae3a3" /><img width="100" height="59" alt="image" src="https://github.com/user-attachments/assets/1878ce1c-2b6e-4e85-a348-a7b9dc0dbeee" />
   <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/8f9e61ae-fc49-449a-8aae-2103dc14cbbf" /><img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/89a9bd4b-393f-4152-ba85-dc8b0e1d6812" />
   <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/92358346-5b03-4272-8d3f-cf9824a38ef6" />
-  <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/92358346-5b03-4272-8d3f-cf9824a38ef6" />
   <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/aef603aa-24f0-4cd6-b23e-74439af1abd5" />
   <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/0f6561fe-5b0f-447d-8acb-e50089e24d25" /> 
   <img width="99" height="56" alt="image" src="https://i.postimg.cc/J0tGsdCM/stamp-(1).gif" /> 

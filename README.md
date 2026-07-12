@@ -24,7 +24,7 @@
       <img width="99" height="56" alt="image" src="https://i.postimg.cc/vB6vpQPK/stamp-(2).png" /> 
         <img width="99" height="56" alt="image" src="https://i.postimg.cc/3NF2TW26/stamp.png" /> 
         <img width="99" height="56" alt="image" src="https://i.postimg.cc/vT4LWGnv/stamp-(6).gif" /> 
-        <img width="99" height="56" alt="image" src=".gif" /> 
+        <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/87d1ef71193b13a4126b8f415f85ab42/5d4656240c42e129-66/s250x400/f5fe50cd5e4e6f4b620b0299388094f98dcb135a.gif" /> 
         <img width="99" height="56" alt="image" src=".gif" /> 
         <img width="99" height="56" alt="image" src=".gif" /> 
           

@@ -25,7 +25,8 @@
     <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/2e9dcec9ca53d852268c863f3c0bbaf6/4650c263c2440927-e9/s100x200/68cb1ba6cde55d1ad2b7cbac17a7971471beec41.png" /> 
       <img width="99" height="56" alt="image" src="https://i.postimg.cc/vB6vpQPK/stamp-(2).png" /> 
         <img width="99" height="56" alt="image" src="https://i.postimg.cc/3NF2TW26/stamp.png" /> 
-        <img width="99" height="56" alt="image" src="https://i.postimg.cc/vT4LWGnv/stamp-(6).gif" /> 
+        <img width="99" height="56" alt="image" src="https://i.postimg.cc/vT4LWGnv/stamp-(6).gif" />
+   <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/faaf01c5d684fa6342f29ec758e9fbee/39737a8b9353bbea-ce/s100x200/9f3e7d0b5eb62b3ddfc00d7c775cbe38a1a699ca.png" />
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/87d1ef71193b13a4126b8f415f85ab42/5d4656240c42e129-66/s250x400/f5fe50cd5e4e6f4b620b0299388094f98dcb135a.gif" /> 
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/fc23d7075fb327b94d430eb2ad34db4a/e10473b4f89888d3-3c/s100x200/499834365354e4da4233e71c2f261a9a5ece0454.png" /> 
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/8eacfc4ca406cbe9ced8e0add16a7812/cd01fd9b8afcf6e7-7c/s100x200/140fcbfdad964b84335cfa9821c3213016f8b5be.gif" /> 
@@ -37,9 +38,8 @@
     <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/28a179a2771fc2c466c9ad97ee2d8024/e826c6883e1feb6d-18/s100x200/550c7ebce7aa857fafc521bae703604264e213b6.png" />
     <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/7bb0633b31cc950603e0eaec8279bc05/cae7dc68f404acce-38/s250x400/dd1e2716ca18dd09354351cf382cfbbbde624d75.gif" />
     <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/a2170b97c49a5e8021f66624afb59513/1a309121b1c3e157-7c/s100x200/55a9ee070914b88a1367e1e70bac84a40d25c44d.png" />
-    <img width="99" height="56" alt="image" src=".gif" />
-    <img width="99" height="56" alt="image" src=".gif" />
-    <img width="99" height="56" alt="image" src=".gif" />
+    <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/869533bf0f20e3782a67a8befd837fd5/81a7afd7695dcc71-f0/s100x200/6d3bd8d8304a23aa6e9db2e90820c3ef10bd7edf.png" />
+    <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/ea710b67913285ba39991c4ca8c4f41a/c1e34a6cb1f92ec7-b5/s250x400/18a2edac3b564a28beeac26c5d9a2da2cb7fc613.gif" />
         <img width="99" height="56" alt="image" src=".gif" />
         
           

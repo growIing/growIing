@@ -14,11 +14,13 @@
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/8f9e61ae-fc49-449a-8aae-2103dc14cbbf" /><img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/89a9bd4b-393f-4152-ba85-dc8b0e1d6812" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/92358346-5b03-4272-8d3f-cf9824a38ef6" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/aef603aa-24f0-4cd6-b23e-74439af1abd5" />
-<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/0f6561fe-5b0f-447d-8acb-e50089e24d25" /> <img width="99" height="56" alt="image" src="https://i.postimg.cc/J0tGsdCM/stamp-(1).gif" /> 
-<p align="center"></p><img width="99" height="56" alt="image" src="https://64.media.tumblr.com/b69dd908508d979ec23485230d41c5c6/ddac6970d3deab0e-6d/s100x200/ee54053601ad7544229ea1d2166793c656083674.gif" /> 
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/0f6561fe-5b0f-447d-8acb-e50089e24d25" /> 
+<center>
+<img width="99" height="56" alt="image" src="https://i.postimg.cc/J0tGsdCM/stamp-(1).gif" /> 
+<img width="99" height="56" alt="image" src="https://64.media.tumblr.com/b69dd908508d979ec23485230d41c5c6/ddac6970d3deab0e-6d/s100x200/ee54053601ad7544229ea1d2166793c656083674.gif" /> 
 
 <img width="99" height="56" alt="image" src="https://i.postimg.cc/Bv6zjxwG/stamp-(2).gif" /> 
-
+</center>
 
 
 

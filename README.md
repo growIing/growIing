@@ -23,6 +23,7 @@
     <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/2e9dcec9ca53d852268c863f3c0bbaf6/4650c263c2440927-e9/s100x200/68cb1ba6cde55d1ad2b7cbac17a7971471beec41.png" /> 
       <img width="99" height="56" alt="image" src="https://i.postimg.cc/vB6vpQPK/stamp-(2).png" /> 
         <img width="99" height="56" alt="image" src="https://i.postimg.cc/3NF2TW26/stamp.png" /> 
+        <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/87d1ef71193b13a4126b8f415f85ab42/5d4656240c42e129-66/s250x400/f5fe50cd5e4e6f4b620b0299388094f98dcb135a.gif" /> 
           
  
 </div>

@@ -10,4 +10,5 @@
 
 <p align="center">you can find more info on <a href="https://rentry.co/niran/">my directory</a>, which is also linked on my normal github profile.</p>
 <p align="center">sign my ata and look at all of my stamps. yay.</p>
-![img](https://64.media.tumblr.com/7e4c7f3a8977e19ac5ae34340e357629/593fcf905b8c6c14-00/s100x200/f0d9de5ae9dc39e0c84774a656d5172c50dd11b7.jpg)
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/811c3f8a-92e4-4a9c-8e5a-e4d1e07ae3a3" />
+

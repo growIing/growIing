@@ -3,8 +3,6 @@
 
 <p align="center">he/him irl puppyboy</p>
 
-<p align="center"><16 dni </p>
-
 <p align="center">i like knights, vampires, and lifeweaver.</p>
 
 <p align="center">lv. 180+ lifeweaver, nonsharing yume.</p>

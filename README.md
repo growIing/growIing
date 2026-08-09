@@ -24,6 +24,7 @@
       <img width="99" height="56" alt="image" src="https://i.postimg.cc/vB6vpQPK/stamp-(2).png" /> 
         <img width="99" height="56" alt="image" src="https://i.postimg.cc/3NF2TW26/stamp.png" /> 
         <img width="99" height="56" alt="image" src="https://i.postimg.cc/vT4LWGnv/stamp-(6).gif" />
+              <img width="99" height="56" alt="image" src="https://i.postimg.cc/Fs4ZQPcM/stamp-(6).png" />
    <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/faaf01c5d684fa6342f29ec758e9fbee/39737a8b9353bbea-ce/s100x200/9f3e7d0b5eb62b3ddfc00d7c775cbe38a1a699ca.png" />
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/87d1ef71193b13a4126b8f415f85ab42/5d4656240c42e129-66/s250x400/f5fe50cd5e4e6f4b620b0299388094f98dcb135a.gif" /> 
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/fc23d7075fb327b94d430eb2ad34db4a/e10473b4f89888d3-3c/s100x200/499834365354e4da4233e71c2f261a9a5ece0454.png" /> 
@@ -43,8 +44,13 @@
           <img width="99" height="56" alt="image" src="https://i.postimg.cc/jd9DsXny/stamp-(3).png" />
            <img width="99" height="56" alt="image" src="https://i.postimg.cc/FRYSjSSZ/stamp-(7).gif" />
             <img width="99" height="56" alt="image" src="https://i.postimg.cc/76Rgc94j/stamp-(9).gif" />
-             <img width="99" height="56" alt="image" src=".gif" />
               <img width="99" height="56" alt="image" src=".gif" />
+               <img width="99" height="56" alt="image" src=".gif" />
+                <img width="99" height="56" alt="image" src=".gif" />
+                 <img width="99" height="56" alt="image" src=".gif" />
+                  <img width="99" height="56" alt="image" src=".gif" />
+                   <img width="99" height="56" alt="image" src=".gif" />
+ 
 </div>
 <p </p>
  <img width="2048" height="70" alt="image" src="https://64.media.tumblr.com/a8bf2a2e013d264dc636f3e138752e76/e58b2eb754741b01-08/s2048x3072/2eb191823840fb71447c16cab7f8c18b02cf708f.gif" /> 

@@ -42,7 +42,7 @@
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/1166a337189694bbccf6e7d237787bf9/41a55f64f53265c1-d5/s250x400/42d4931d1fcf76131cc3f9604717ba0bbbff2f98.gif" />
           <img width="99" height="56" alt="image" src="https://i.postimg.cc/jd9DsXny/stamp-(3).png" />
            <img width="99" height="56" alt="image" src="https://i.postimg.cc/FRYSjSSZ/stamp-(7).gif" />
-            <img width="99" height="56" alt="image" src=".gif" />
+            <img width="99" height="56" alt="image" src="https://i.postimg.cc/76Rgc94j/stamp-(9).gif" />
              <img width="99" height="56" alt="image" src=".gif" />
               <img width="99" height="56" alt="image" src=".gif" />
 </div>

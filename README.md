@@ -41,7 +41,7 @@
     <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/ea710b67913285ba39991c4ca8c4f41a/c1e34a6cb1f92ec7-b5/s250x400/18a2edac3b564a28beeac26c5d9a2da2cb7fc613.gif" />
         <img width="99" height="56" alt="image" src="https://64.media.tumblr.com/1166a337189694bbccf6e7d237787bf9/41a55f64f53265c1-d5/s250x400/42d4931d1fcf76131cc3f9604717ba0bbbff2f98.gif" />
           <img width="99" height="56" alt="image" src="https://i.postimg.cc/jd9DsXny/stamp-(3).png" />
-           <img width="99" height="56" alt="image" src=".gif" />
+           <img width="99" height="56" alt="image" src="https://i.postimg.cc/FRYSjSSZ/stamp-(7).gif" />
             <img width="99" height="56" alt="image" src=".gif" />
              <img width="99" height="56" alt="image" src=".gif" />
               <img width="99" height="56" alt="image" src=".gif" />

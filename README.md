@@ -2,7 +2,6 @@
 <p align="center">paris or kei</p>
 
 <p align="center">he/him irl puppyboy</p>
-<p align="center">19 years young</p>
 
 <p align="center">i like knights, vampires, and lifeweaver.</p>
 

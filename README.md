@@ -1,8 +1,6 @@
  <img width="2048" height="70" alt="image" src="https://64.media.tumblr.com/a8bf2a2e013d264dc636f3e138752e76/e58b2eb754741b01-08/s2048x3072/2eb191823840fb71447c16cab7f8c18b02cf708f.gif" /> 
 <p align="center">paris or kei</p>
 
-<p align="center">CURRENTLY PLAYING ROBLOX I WONT SEE YOUR MESSAGES UNLESS YOU WHISPER ME</p>
-
 
 <p align="center">he/him irl puppyboy</p>
 
